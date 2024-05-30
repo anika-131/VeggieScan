@@ -20,7 +20,7 @@ app_mode = st.sidebar.selectbox("Select Page",["Home","About Dataset","Predictio
 #Main Page
 if(app_mode=="Home"):
     st.header("VeggieScan")
-    image_path = "home_img.jpeg"
+    image_path = "app/home_img.jpeg"
     st.image(image_path)
     with st.expander("About This Project"):
         st.write("VeggieScan: Simplifying Produce Identification")
