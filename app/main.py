@@ -72,7 +72,7 @@ elif(app_mode=="Prediction"):
         st.write("Our Prediction")
         result_index = model_prediction(test_image)
         #Reading Labels
-        with open("labels.txt") as f:
+        with open("app/labels.txt") as f:
             content = f.readlines()
         label = []
         for i in content:
