@@ -15,4 +15,4 @@ VeggieScan takes an image as input and predicts its class from a comprehensive s
 https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition
 
 ## Access the streamlit web application
-You can try out the application [here](https://veggiescan.streamlit.app/)
+You can try out the application [here](https://veggiescananika131.streamlit.app/)
